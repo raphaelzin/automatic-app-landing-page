@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Denûncia de entulho
     description                           : No Coleta você pode denunciar entulhos e os mesmos serão encaminhados automaticamente para a prefeitura de Fortaleza!
-    fontawesome_icon_name                 : warning
+    fontawesome_icon_name                 : exclamation-triangle
 
 
 # Theme Settings
