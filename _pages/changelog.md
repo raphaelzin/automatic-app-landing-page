@@ -4,7 +4,7 @@ title: Novidades
 include_in_header: true
 ---
 
-#Versões
+## Versões do app
 
 <br>
 
