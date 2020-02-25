@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: false
+---
+
 ## Privacy Policy
 
 Raphael Souza built the Fortaleza Coleta app as a Free app. This SERVICE is provided by Raphael Souza at no cost and is intended for use as is.
